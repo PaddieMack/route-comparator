@@ -1,6 +1,6 @@
 # Route Comparator
 
-This repository contains a Python script for comparing two route tables and identifying routes present in one table that are missing from the other. This can be particularly useful for network engineers and administrators who must compare two routing tables and find missing routes.
+This repository contains a Python script for comparing two route tables and identify routes present in one table that are missing from the other. This can be particularly useful for network engineers and administrators who must compare two routing tables and find missing routes.
 
 ## Features
 
