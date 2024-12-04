@@ -28,7 +28,7 @@ missing_routes = find_missing_routes(file1, file2)
 
 # Print missing routes
 if missing_routes:
-    print("Routes in WAN distribution table missing from SD-WAN table:")
+    print("Routes in the 2nd table missing from the 1st table:")
     for route in missing_routes:
         print(route)
 else:
